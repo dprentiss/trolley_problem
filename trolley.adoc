@@ -1,1 +1,52 @@
-= The Trolley Problem: A Dallas Makerspace Micro-mobility Project
+= The Trolley Problem
+:toc:
+
+== Project Summary
+
+== Project Planning
+
+=== Requirements
+* Vehicle capable of carrying eight people
+* One driver and seven passegers
+
+== Rolling Chassis
+* Design meets project requirements
+* Design considers potential, future DMS projects
+* Custom built or modified, existing vehicle
+
+=== Powertrain
+
+==== Prime Mover
+* Battery-electric motor
+
+==== Drivetrain
+
+===== Axles
+* Two axles
+
+===== Wheels
+
+===== Transmission
+
+===== Steering
+
+=== Vehicle Frame
+
+== Body
+
+=== Bed
+* Post bed with tie-downs
+* Decking plywood and/or metal
+
+=== Cargo
+* Seats
+
+=== Superstructure
+
+==== Frame
+
+==== Canopy
+
+==== Facades
+
+
